@@ -3,5 +3,4 @@ este es un archivo
 este archivo es para realizar los proyectos de la clase 
 asi podemos facilitar el aprendizaje 
 
-hoy estamos practicando con git rm y con git reset aparte html y css
-
+mañana sabremos como utilizar facilmente git 
