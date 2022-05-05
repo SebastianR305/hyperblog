@@ -3,4 +3,8 @@ este es un archivo
 este archivo es para realizar los proyectos de la clase 
 asi podemos facilitar el aprendizaje 
 
-mañana sabremos como utilizar facilmente git 
+Sebastian Ruiz tiene 15 años y macio en colombia
+
+por el momento Sebastian es el unico implicado en este proyecto
+
+mañana el sabra como utilizar facilmente git
